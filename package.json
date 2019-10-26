@@ -7,6 +7,9 @@
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint"
   },
+  "engines": {
+    "node": "8.9.4"
+  },
   "dependencies": {
     "@types/list.js": "^1.5.1",
     "@types/uuid": "^3.4.4",
